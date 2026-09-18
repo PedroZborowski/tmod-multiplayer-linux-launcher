@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=tModLoader (Multiplayer Fix)
+Comment=Launches tModLoader directly, working around the Linux "shows as Terraria" Steam invite bug
+Exec={{EXEC_PATH}}
+Icon=tmodloader
+Terminal=true
+Categories=Game;
+StartupNotify=true
